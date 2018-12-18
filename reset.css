@@ -10,6 +10,8 @@
   file name: reset.css
 */
 
+@import url("navicon.css");
+
 /* Basic styles to be used with all devices and under all conditions */
 
 article, aside, figcaption, figure,

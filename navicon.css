@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+/*
+  Final
+
+  College Comp. Final
+  Name: Dylan Brune
+  Date: December 17, 2018
+
+  file name: indexstyle.css
+*/
+
+a#navicon {
+  display: none;
+}
+
+a#navicon {
+  display: block;
+}
+
+nav ul {
+  display: none;
+}
+
+a#navicon:hover+ul, nav ul:hover {
+  display: block;
+}
